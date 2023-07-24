@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "394810291446",
+    "project_id": "chat-app-send-message",
+    "storage_bucket": "chat-app-send-message.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394810291446:android:90d1a876fd43d57c93a8d7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_task_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394810291446-orj28e8b960oel5m2cc4o03cu4k790bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaj-b-7AoxKFFP2i9BhTguwbLdhiLxv8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394810291446-orj28e8b960oel5m2cc4o03cu4k790bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
